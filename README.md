@@ -1,0 +1,2 @@
+# cpython
+study python
